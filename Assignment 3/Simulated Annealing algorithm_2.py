@@ -1,5 +1,3 @@
-# Shubham Mawa
-# 16IM10033
 import numpy as np
 import random
 
